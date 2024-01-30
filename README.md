@@ -1,7 +1,5 @@
 # Peg Solitaire Game
 
-![Peg Solitaire](link_to_image)
-
 ## Introduction
 
 This is the final project for a course in assembly language, completed collaboratively by two individuals. The project focuses on implementing the classic game of Peg Solitaire.
